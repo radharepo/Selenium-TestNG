@@ -1,0 +1,24 @@
+2014-11-09 08:43:30,762 INFO  [Log] **************************************************************************************** 
+2014-11-09 08:43:30,763 INFO  [Log] **************************************************************************************** 
+2014-11-09 08:43:30,763 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-11-09 08:43:30,763 INFO  [Log] **************************************************************************************** 
+2014-11-09 08:43:30,763 INFO  [Log] **************************************************************************************** 
+2014-11-09 08:43:39,544 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2014-11-09 08:43:45,969 INFO  [Log] Home Page link element found 
+2014-11-09 08:43:45,969 INFO  [Log] Web application launched 
+2014-11-09 08:43:48,871 INFO  [Log] Home Page link element found 
+2014-11-09 08:43:48,976 INFO  [Log] Login element is found 
+2014-11-09 08:43:49,151 INFO  [Log] Page is navigated to Login page 
+2014-11-09 08:43:53,973 INFO  [Log] email text field is found 
+2014-11-09 08:43:54,822 INFO  [Log] Login credentials : Emailradhasel9@gmail.com 
+2014-11-09 08:43:54,864 INFO  [Log] Password text field is found 
+2014-11-09 08:43:54,987 INFO  [Log] Login credentials :  Password123456 
+2014-11-09 08:43:55,000 INFO  [Log] Login button is found 
+2014-11-09 08:43:55,105 INFO  [Log] Click action Performed on Login button 
+2014-11-09 08:43:55,105 INFO  [Log] Login Successfully, now it is the time to Log Off buddy 
+2014-11-09 08:43:55,507 INFO  [Log] Browser closed 
+2014-11-09 08:43:55,507 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-11-09 08:43:55,507 INFO  [Log] X 
+2014-11-09 08:43:55,507 INFO  [Log] X 
+2014-11-09 08:43:55,507 INFO  [Log] X 
+2014-11-09 08:43:55,507 INFO  [Log] X 
